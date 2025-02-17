@@ -1,0 +1,14 @@
+{
+  "name": "com.tcs.cctvcamera",
+  "displayName": "TCS CCTV Camera",
+  "description": "CCTV Camera Solution for Unity",
+  "version": "1.0.1",
+  "keywords": ["cctvcamera", "unity", "simple"],
+  "category": "Tent City Studio",
+  "dependencies": {},
+  "author": {
+    "name": "Damon Fedorick",
+    "url": "https://github.com/Ddemon26/TCS-CCTVCamera"
+  },
+  "documentationUrl": "https://github.com/Ddemon26/TCS-CCTVCamera/blob/main/README.md"
+}
